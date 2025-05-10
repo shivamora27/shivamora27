@@ -12,7 +12,7 @@
 
 ## About Me ✍
 
-🚀 **DevOps Lead** | 🛠️ 2× Google Cloud Certified | ☁️ 1× Azure Certified  
+🚀 **DevOps Lead** | 🛠️ 2× Google Cloud Certified | ☁️ 1× AWS Certified  
 👨‍💻 Software Engineer @ Stackbox | Multi-Cloud | Kubernetes | Docker | Terraform | DevSecOps | Networking
 
 ---
