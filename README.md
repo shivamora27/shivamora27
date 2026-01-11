@@ -34,7 +34,7 @@ I'm a **working professional with 3+ years of experience**, currently serving as
 
 ## Technical Skills 🛠
 
-<img align="center" src='https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif' width='50%' height='40%'>
+<img align="center" src='https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif' width='49%' height='40%'>
 
 <table>
 <tr>
