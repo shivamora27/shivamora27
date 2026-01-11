@@ -121,24 +121,26 @@ I'm always eager to dive deep into new technologies and enjoy mentoring and moti
 
 ## Quick Overview 📝
 
+> 📌 **Note:** Stats below include contributions to personal repositories. For organization contributions, check my [contribution graph](https://github.com/shivamora27?tab=overview).
+
 <p align="center">
 <a href="https://github.com/shivamora27">
 <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shivamora27&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&rank_icon=github" alt="Shivam's github stats" />
 </a>
 <a href="https://github.com/shivamora27">
-<img width="48%" src="https://streak-stats.demolab.com/?user=shivamora27&theme=radical&hide_border=true" alt="shivamora27"/>
+<img width="48%" src="https://github-profile-trophy.vercel.app/?username=shivamora27&theme=radical&no-frame=true&row=1&column=4&margin-w=15" alt="GitHub Trophies"/>
 </a>
 </p>
-
 <p align="center">
 <a href="https://github.com/shivamora27">
 <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shivamora27&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="shivamora27" />
 </a>
 </p>
 
+
 <!--Activity Graph-->
 <p align="center">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shivamora27&theme=radical&hide_border=true&area=true" alt="Contribution Graph" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shivamora27&theme=redical&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ###
