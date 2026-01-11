@@ -34,64 +34,86 @@ I'm a **working professional with 3+ years of experience**, currently serving as
 
 ## Technical Skills 🛠
 
-<img align='left' src='https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif' width='200' height='200'>
+<img align="center" src='https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif' width='100%' height='50%'>
 
-**Languages & Scripting**</br>
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Shell](https://img.shields.io/badge/-Shell/Bash-black?style=flat-square&logo=gnu-bash)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-</br>
+<table>
+<tr>
+<td valign="top" width="50%">
 
-**Learning & Exploring**</br>
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-</br>
+### 💻 Languages & Scripting
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Shell](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**Data & Streaming**</br>
-![Apache Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-![Apache Flink](https://img.shields.io/badge/-Flink-E6526F?style=flat-square&logo=apache-flink&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/-ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
-</br>
+### 📚 Learning & Exploring
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-**Cloud Platforms**</br>
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-</br>
+</td>
+<td valign="top" width="50%">
 
-**Container & Orchestration**</br>
-[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Podman](https://img.shields.io/badge/-Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
-![RBAC](https://img.shields.io/badge/-RBAC-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-</br>
+### ☁️ Cloud Platforms
+![Google Cloud](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 
-**IaC & Configuration**</br>
-[![Terraform](https://img.shields.io/badge/-Terraform-623ce4?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
-[![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)](https://ansible.io/)
-</br>
+### 🔄 Data & Streaming
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Flink](https://img.shields.io/badge/-Flink-E6526F?style=for-the-badge&logo=apache-flink&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/-ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
 
-**Monitoring & Observability**</br>
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![ReportPortal](https://img.shields.io/badge/-ReportPortal-65C179?style=flat-square&logo=testing-library&logoColor=white)
-</br>
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
 
-**Databases**</br>
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-</br>
+### 🐳 Container & Orchestration
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/-Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
+![Helm](https://img.shields.io/badge/-Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 
-**Tools & Platforms**</br>
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white)
-[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
-[![centOS](https://img.shields.io/badge/RedHat-8.0-Red?style=flat-square&logo=RedHat&logoColor=white)](https://www.redhat.com/en)
+### 🏗️ IaC & Configuration
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
+</td>
+<td valign="top" width="50%">
 
+### 📊 Monitoring & Observability
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Datadog](https://img.shields.io/badge/-Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+### 🖥️ OS & Servers
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![RedHat](https://img.shields.io/badge/-RedHat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br clear="both">
 
 ### 🔧 Certifications & Expertise
 
@@ -121,26 +143,20 @@ I'm always eager to dive deep into new technologies and enjoy mentoring and moti
 
 ## Quick Overview 📝
 
-> 📌 **Note:** Stats below include contributions to personal repositories. For organization contributions, check my [contribution graph](https://github.com/shivamora27?tab=overview).
-
-<p align="center">
-<a href="https://github.com/shivamora27">
-<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shivamora27&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&rank_icon=github" alt="Shivam's github stats" />
-</a>
-<a href="https://github.com/shivamora27">
-<img width="48%" src="https://github-profile-trophy.vercel.app/?username=shivamora27&theme=radical&no-frame=true&row=1&column=4&margin-w=15" alt="GitHub Trophies"/>
-</a>
-</p>
-<p align="center">
-<a href="https://github.com/shivamora27">
-<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shivamora27&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="shivamora27" />
-</a>
-</p>
-
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=shivamora27&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" alt="Shivam's github stats" />
+</td>
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamora27&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+</td>
+</tr>
+</table>
 
 <!--Activity Graph-->
 <p align="center">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shivamora27&theme=redical&hide_border=true&area=true" alt="Contribution Graph" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shivamora27&theme=radical&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ###
